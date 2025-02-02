@@ -36,8 +36,6 @@ I'm a passionate Software Developer focused on creating innovative solutions. Al
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimanthaG&layout=compact)
 
-<!-- Optional: GitHub Activity Graph (requires additional setup) -->
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DimanthaG&theme=react-dark)](https://github.com/DimanthaG)
 
 ---
 
